@@ -22,8 +22,8 @@ L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web dé
 ## À FAIRE :
 
 - ✅ <del>Idées d'optimisation</del>
-- ❌ Réviser les cours SEO - ACCESSIBILITE 
-- ❌ Commencez l'optimisation  
+- ✅ <del> Réviser les cours SEO - ACCESSIBILITE </del>
+- ✅ <del> Commencez l'optimisation </del>
 - ❌ Finir RAPPORT
 - ❌ Finir RECOMMANDATION 
 - ❌ Finir ANALYSE 
