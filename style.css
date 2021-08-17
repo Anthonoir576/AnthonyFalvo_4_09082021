@@ -901,6 +901,8 @@ h4 {
     }
 }
 
+
+
 /* Modif */
 #bloc-2-services, h2 {
 
@@ -935,9 +937,15 @@ h1 {
 
 }
 
-/*Button scroll*/
+/*Chevron et Button scroll*/
 .fa-chevron-up {
 
-    color: black!important;
+    color: white!important;
+
+}
+
+#buttonScroll a {
+
+    border: 1px solid white;
 
 }
