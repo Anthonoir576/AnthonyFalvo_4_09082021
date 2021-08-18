@@ -345,6 +345,8 @@ a:hover {
         margin: 10px auto 0;
     }
 }
+
+
 .nav > li > .dropdown a {
     background: 0 0 !important;
     display: block;
@@ -898,7 +900,7 @@ h4 {
 
 
 
-/* Modif */
+/* ########### Modif ################ */
 #bloc-2-services, h2 {
 
     font-size: 25px;
@@ -911,6 +913,7 @@ h4 {
 
     font-weight: 600;
     color: #575757ef !important;
+    margin: 0;
 
 }
 
@@ -942,5 +945,23 @@ h1 {
 #buttonScroll a {
 
     border: 1px solid white;
+
+}
+
+/* Correction responsive */
+@media only screen and (max-width: 768px) {
+
+    img.img-responsive.portfolio-thumb {
+
+        width: 100%;
+        height: auto;
+
+    }
+
+    .row.tight-width-whitespace.portfolio-row :first-child {
+
+        margin-bottom: 50px;
+
+    }
 
 }
