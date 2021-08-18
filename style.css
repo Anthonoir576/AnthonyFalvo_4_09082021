@@ -1011,6 +1011,19 @@ button[type="submit"] {
 
 }
 
+.social span {
+
+    transition: .6s;
+
+}
+
+.social span:hover {
+
+    transition: .3s;
+    color: rgba(255, 255, 255, 0.733)!important;
+
+}
+
 .text-center.hero-bloc-text.tc-white {
 
     color: #fff!important;
