@@ -912,7 +912,7 @@ h4 {
 .citation {
 
     font-weight: 600;
-    color: #575757ef !important;
+    color: #575757 !important;
     margin: 0;
 
 }
@@ -982,5 +982,91 @@ h1 {
         margin: 0 20px;
 
     }
+
+}
+
+/* contraste */
+
+#cta-hero,
+.btn.btn-atomic-tangerine.btn-clean.btn-rd.btn-lg.cta-hero,
+#bloc-8 p,
+.social span,
+#bloc-6 p, 
+#bloc-6 h1,
+#bloc-3-what-i-do p,
+#bloc-3-what-i-do h2, 
+#bloc-3-what-i-do a,
+button[type="submit"] { 
+
+    color: #000!important;
+
+}
+
+.text-center.hero-bloc-text.tc-white {
+
+    color: #fff!important;
+    letter-spacing: 10px;
+    
+}
+
+#bloc-5-cta h2 {
+
+    color: #fff!important;
+    opacity: 1;
+    letter-spacing: 4px;
+    font-weight: 900;
+    
+
+    position: relative;
+    z-index: 1;
+
+}
+
+
+#bloc-6 p,
+#bloc-8 p {
+
+    font-size: 16px;
+
+}
+
+#bloc-8 p {
+
+    letter-spacing: 3px;
+
+}
+
+#bloc-6 p,
+#bloc-6 h1 {
+
+    color: rgb(0, 0, 0)!important;
+
+}
+
+.row.tight-width-whitespace.black-background {
+
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+
+    position: relative;
+    z-index: 1;
+
+}
+
+.row.tight-width-whitespace.black-background a {
+
+    font-size: 20px;
+
+}   
+
+.row.tight-width-whitespace.portfolio-row p {
+
+    color: #000!important;
+
+}
+
+.bloc-button.btn.btn-d.scrollToTop {
+
+    background: rgba(0, 0, 0, 0.7)!important;
 
 }
