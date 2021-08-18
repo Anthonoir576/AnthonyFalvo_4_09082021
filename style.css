@@ -951,16 +951,35 @@ h1 {
 /* Correction responsive */
 @media only screen and (max-width: 768px) {
 
-    img.img-responsive.portfolio-thumb {
+    a img.img-responsive.portfolio-thumb {
+ 
+        display: inline-block;
+        margin-bottom: 0!important;
 
-        width: 100%;
-        height: auto;
+        width: 85%;
 
     }
 
+    .row.tight-width-whitespace.portfolio-row a {
+
+        margin-bottom: 20px!important;
+
+    }
+ 
     .row.tight-width-whitespace.portfolio-row :first-child {
 
         margin-bottom: 50px;
+
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+
+    #bloc-5-cta h2 {
+
+        font-size: 20px;
+        margin: 0 20px;
 
     }
 
