@@ -968,6 +968,12 @@ h1 {
         margin-bottom: 20px!important;
 
     }
+
+    .row.tight-width-whitespace.portfolio-row p {
+
+        margin: 0  1.2rem;
+
+    }
  
     .row.tight-width-whitespace.portfolio-row :first-child {
 
