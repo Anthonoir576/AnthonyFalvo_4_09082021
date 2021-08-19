@@ -1057,8 +1057,7 @@ button[type="submit"] {
 }
 
 
-#bloc-6 p,
-#bloc-8 p {
+#bloc-6 p {
 
     font-size: 16px;
 
@@ -1104,7 +1103,8 @@ button[type="submit"] {
 
 .row.tight-width-whitespace.black-background p,
 .row.tight-width-whitespace.portfolio-row p,
-.row.voffset-lg.med-width-whitespace p {
+.row.voffset-lg.med-width-whitespace p,
+#bloc-8 p {
 
     font-size: 14px!important;
 
