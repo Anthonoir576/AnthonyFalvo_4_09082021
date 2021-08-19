@@ -1099,7 +1099,7 @@ button[type="submit"] {
 
 }
 
-p {
+/* p {
 
     text-align: justify!important;
 
@@ -1117,7 +1117,7 @@ p.text-center.mg-lg.tc-white.tight-width-whitespace {
 
     text-align: justify!important;
 
-}   
+}    */
 
 /* ajout du comportement par defaut */
 a:focus {
