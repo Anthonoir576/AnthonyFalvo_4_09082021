@@ -1099,27 +1099,6 @@ button[type="submit"] {
 
 }
 
-/* p {
-
-    text-align: justify!important;
-
-}
-
-p.text-center.white,
-p.text-center.mg-lg.tc-white.tight-width-whitespace {
-
-    text-align: center!important;
-
-}
-
-.row.tight-width-whitespace.black-background p,
-.row.tight-width-whitespace.black-background h2 {
-
-    text-align: justify!important;
-
-}    */
-
-/* ajout du comportement par defaut */
 a:focus {
 
     outline: auto!important;
