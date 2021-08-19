@@ -1076,11 +1076,7 @@ button[type="submit"] {
 
 }
 
-.row.tight-width-whitespace.black-background a {
 
-    font-size: 20px;
-
-}   
 
 .row.tight-width-whitespace.portfolio-row p {
 
@@ -1091,5 +1087,41 @@ button[type="submit"] {
 .bloc-button.btn.btn-d.scrollToTop {
 
     background: rgba(0, 0, 0, 0.7)!important;
+
+}
+
+
+.row.tight-width-whitespace.black-background p,
+.row.tight-width-whitespace.portfolio-row p,
+.row.voffset-lg.med-width-whitespace p {
+
+    font-size: 14px!important;
+
+}
+
+p {
+
+    text-align: justify!important;
+
+}
+
+p.text-center.white,
+p.text-center.mg-lg.tc-white.tight-width-whitespace {
+
+    text-align: center!important;
+
+}
+
+.row.tight-width-whitespace.black-background p,
+.row.tight-width-whitespace.black-background h2 {
+
+    text-align: justify!important;
+
+}   
+
+/* ajout du comportement par defaut */
+a:focus {
+
+    outline: auto!important             ;
 
 }
