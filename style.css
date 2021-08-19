@@ -1122,6 +1122,16 @@ p.text-center.mg-lg.tc-white.tight-width-whitespace {
 /* ajout du comportement par defaut */
 a:focus {
 
-    outline: auto!important             ;
+    outline: auto!important;
+
+}
+
+/*Drop shadow pour bien voir le logo*/
+.bloc.bgc-dark-slate-blue.bg-banniere.d-bloc.bg-t-edge.bloc-bg-texture.texture-paper.b-parallax img.center-block.image-resize-mode {
+
+    position: relative!important;
+    z-index: 1!important;
+
+    filter: drop-shadow(0 0 0.15rem white)!important;
 
 }
