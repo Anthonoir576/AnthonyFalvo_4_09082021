@@ -1125,9 +1125,3 @@ a:focus {
     filter: drop-shadow(0 0 0.15rem white)!important;
 
 }
-
-body {
-
-    font-display: swap!important;
-
-}
