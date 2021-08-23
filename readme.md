@@ -29,5 +29,6 @@ L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web dé
 - ✅ <del> Finir l'optimisation </del>
 - ❌ Finir RAPPORT
 - ❌ Finir RECOMMANDATION 
+- ❌ SUPPRESSION FICHIER / DOCUMENT EN TROP  
 
 - ❌ Finir BROUILLON
