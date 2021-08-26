@@ -5,6 +5,7 @@
 ### <p align="right">[Lien de la page WEB](https://anthonoir576.github.io/Projet_Officiel_OpenClassRooms_P4/)</p>
 
 ![screen SEO](./source/md-picture/mdpix.png)
+![screen SEO](./source/md-picture/mdpix2.jpg)
 
 ## Objectifs :
 L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web déjà existant de l'agence web "La Chouette Agence". Puis comparer les 2 versions du site.
@@ -27,7 +28,7 @@ L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web dé
 - ✅ <del> Réviser les cours SEO - ACCESSIBILITE </del>
 - ✅ <del> Commencez l'optimisation </del>
 - ✅ <del> Finir l'optimisation </del>
-- ❌ Finir RAPPORT
+- ✅ <del> Finir RAPPORT </del>
 - ❌ Finir RECOMMANDATION 
 - ❌ SUPPRESSION FICHIER / DOCUMENT EN TROP  
 
