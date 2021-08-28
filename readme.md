@@ -29,7 +29,7 @@ L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web dé
 - ✅ <del> Commencez l'optimisation </del>
 - ✅ <del> Finir l'optimisation </del>
 - ✅ <del> Finir RAPPORT </del>
-- ❌ Finir RECOMMANDATION 
+- ✅ <del> Finir RECOMMANDATION </del>
 - ❌ SUPPRESSION FICHIER / DOCUMENT EN TROP  
 
-- ❌ Finir BROUILLON
+- ✅ <del> Finir BROUILLON </del>
