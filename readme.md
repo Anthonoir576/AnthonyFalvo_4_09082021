@@ -2,7 +2,7 @@
 
 ## Optimisez un site web existant :
 
-### <p align="right">[Lien de la page WEB](https://anthonoir576.github.io/Projet_Officiel_OpenClassRooms_P4/)</p>
+<!-- ### <p align="right">[Lien de la page WEB](https://anthonoir576.github.io/Projet_Officiel_OpenClassRooms_P4/)</p> -->
 
 ![screen SEO](./source/md-picture/mdpix.png)
 ![screen SEO](./source/md-picture/mdpix2.jpg)
