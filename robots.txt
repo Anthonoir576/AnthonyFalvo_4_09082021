@@ -10,4 +10,4 @@ Disallow: /source/'projet initial - La chouette agence'/
 
 #sitemap
 
-sitemap: https://anthonoir576.github.io/Projet_Officiel_OpenClassRooms_P4/sitemap.xml
+sitemap: https://anthonoir576.github.io/AnthonyFalvo_4_09082021/sitemap.xml
